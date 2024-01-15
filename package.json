@@ -1,0 +1,19 @@
+{
+  "name": "demo-api",
+  "version": "1.0.0",
+  "description": "API to verify infrastructure works properly",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrburmeister/demo-api.git"
+  },
+  "author": "Christoph Burmeister",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chrburmeister/demo-api/issues"
+  },
+  "homepage": "https://github.com/chrburmeister/demo-api#readme"
+}
